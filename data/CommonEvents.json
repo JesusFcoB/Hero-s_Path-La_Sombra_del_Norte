@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"name":"Reaparecer leña y carbón","switchId":4,"trigger":2,"list":[{"code":230,"indent":0,"parameters":[600]},{"code":355,"indent":0,"parameters":["for (var i = 76; i <= 81; i++) { $gameSelfSwitches.setValue([5, i, 'A'], false); }"]},{"code":355,"indent":0,"parameters":["for (var i = 11; i <= 12; i++) { $gameSelfSwitches.setValue([5, i, 'A'], false); }"]},{"code":121,"indent":0,"parameters":[4,4,1]},{"code":0,"indent":0,"parameters":[]}]}
+]

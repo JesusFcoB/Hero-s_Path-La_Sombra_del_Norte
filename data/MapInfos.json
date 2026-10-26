@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"mapa1","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":2,"expanded":false,"name":"sala_entrenamiento","order":2,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":false,"name":"tienda","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":4,"expanded":false,"name":"armeria","order":4,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"aldea_nieve","order":5,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":6,"expanded":false,"name":"Mazmorra","order":6,"parentId":0,"scrollX":713,"scrollY":492.5},
+{"id":7,"expanded":false,"name":"Jefe","order":7,"parentId":0,"scrollX":459,"scrollY":312.5}
+]

@@ -1,0 +1,13 @@
+# Guardados locales (el juego en web usa localStorage)
+save/
+
+# Respaldos de datos (*.bak del editor / copias de seguridad)
+*.bak
+*.bak2
+*.bak3
+*.bak4
+*.bak5
+
+# Temporales de Windows
+Thumbs.db
+desktop.ini
